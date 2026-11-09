@@ -22,6 +22,15 @@ El proyecto sigue rigurosamente el patrón de diseño de separación de responsa
 4. **Capa de Servicios y Proyecciones:** Exposición de servicios web mediante proyecciones directas en OData V4 deshabilitando el modo *Draft* de edición.
 5. **Configuración de Seguridad:** Gestión de usuarios de prueba integrados en el entorno simulado (*Mocked Auth* con el usuario `alice`).
 
+### 📸 Capturas del Resultado Final
+
+**Página de bienvenida del servidor SAP CAP:**
+![Servidor SAP CAP](fiori_preview.png)
+
+**Datos reales del servicio expuesto con auditoría administrada (OData V4):**
+![Tabla de Datos Fiori Preview](tabla-datos.png)
+
+
 ## 🛠️ Instrucciones para Ejecución Local
 
 1. Clonar el repositorio.
